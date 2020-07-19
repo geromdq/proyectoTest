@@ -11,7 +11,7 @@ public class CrearReceta {
 
     private String nextLines() {
         System.out.println("a");
-        return "a";
+        return "a"
     }
 
 }
